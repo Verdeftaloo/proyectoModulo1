@@ -8,6 +8,11 @@ Este proyecto consta de un pequeño texto acompañado de un corto formulario a m
 2. Formularios: input,label
 
 **Gestion de código**
+
+
 Control de versiones con git y github, asi como ejemplificar el uso de gitHub pages:
+
+
+### Proyecto:
 
 [Prueba de comprension lectora](https://verdeftaloo.github.io/proyectoModulo1/)
